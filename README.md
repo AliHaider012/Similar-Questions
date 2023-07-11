@@ -11,4 +11,8 @@ Next, various features are engineered from the preprocessed data. These features
 
 Machine learning models, such as Random Forest and XGBoost classifiers, are trained using the engineered features. The models are evaluated based on accuracy score to assess their performance in identifying duplicate questions.
 
-The project aims to provide an effective solution for identifying duplicate questions, which can be valuable in applications such as question answering systems, information retrieval, and content moderation.
+# Utility
+The project aims to provide an effective solution for identifying duplicate questions, which can be valuable in applications such as question answering systems and information retrieval.
+
+# Data Used
+https://www.kaggle.com/c/quora-question-pairs
