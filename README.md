@@ -1,5 +1,4 @@
 # Similar-Questions
-This is Machine Learning based project to determine whether two given questions are duplicate or not.
 
 # Indtroduction
 This project focuses on the problem of determining whether two questions are duplicates or not. The project utilizes machine learning techniques and natural language processing (NLP) to build a model that can accurately classify duplicate questions.
